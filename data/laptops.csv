@@ -1,0 +1,46 @@
+id,brand,model,ram_gb,cpu,price,in_stock
+2bbb095b-dcdf-448a-a747-e560a2d55fc1,Lenovo,Legion H15,64,Intel i5,2237.97,True
+05fb59f7-fd75-4e51-9da6-f5f7cc0288c8,Lenovo,Legion H15,64,AMD Ryzen 9,2593.91,False
+29864b50-f961-445a-bcd6-90536cb2a839,Lenovo,Legion H15,8,Intel i9,1489.03,True
+a7e98d97-d943-48e3-b42b-10a59a9ecddf,MSI,Stealth w72,32,AMD Ryzen 5,1480.06,False
+2599f0ff-65d2-4cd5-9084-11aac00b42f0,MSI,Stealth w72,16,Intel i5,905.45,True
+b45eb58c-e8e2-4eb9-93ff-927ad46effe1,MSI,Stealth w72,16,Intel i9,1396.37,False
+a05a3518-ca3b-445e-8d36-6dd1fddd18c5,Dell,Alienware H06,16,AMD Ryzen 9,1429.85,True
+e6f10354-d844-4ac6-8de2-e1cb1a859aa9,Dell,Alienware H06,32,AMD Ryzen 5,1461.13,True
+3db5c4c1-6adc-4d34-9040-a6cd291469b1,Dell,Alienware H06,8,Intel i9,1310.04,False
+f25b7faf-4b04-4cc2-856d-c9ef89a96434,Apple,MacBook Pro,8,Intel i5,638.09,False
+0867f8a6-a1b6-4205-b54d-95ba7d26e363,Apple,MacBook Pro,32,Intel i5,1262.46,False
+026b8b9a-e337-42a4-a66b-383af57838c2,Asus,ROG Zephyrus m31,8,Intel i5,765.4,True
+a1061749-8be3-4f15-97bd-bdf5966b74a7,Asus,ROG Zephyrus m31,8,AMD Ryzen 7,921.49,True
+f58c00ab-cebe-489e-9052-085d901276a0,Asus,ROG Zephyrus m31,8,AMD Ryzen 5,837.93,False
+8eda8112-4c03-46c5-8338-418bbcc9a55c,Apple,MacBook Air,64,Intel i7,2688.17,True
+f21e5559-5c91-43c2-ae4a-9e7c37089bfd,Apple,MacBook Air,8,AMD Ryzen 5,785.4,False
+95fd18d0-c85d-45c6-b468-d6d9067a40a5,Lenovo,IdeaPad L32,32,AMD Ryzen 9,2244.32,False
+f752f0a1-8e49-45d7-a08d-a2fc6fbb1692,Lenovo,IdeaPad L32,16,AMD Ryzen 9,1685.06,True
+2f90097b-d570-472b-ac0d-2d7648bef215,Lenovo,IdeaPad L32,8,AMD Ryzen 5,763.81,True
+5cf3fbee-1a94-4538-bd33-1c93587c88df,Asus,ZenBook H70,64,AMD Ryzen 5,2063.72,True
+dd7838c9-8392-4d93-99ca-14a843d2f649,Asus,ZenBook H70,8,Intel i7,1108.07,False
+fcc1bf21-cfb2-4007-8355-b3441b81b480,Asus,ZenBook H70,64,AMD Ryzen 9,2982.12,True
+00ca100c-dce3-4b03-a78d-39859b441ff8,Dell,Alienware b65,8,AMD Ryzen 7,931.0,True
+41dcbc51-65ae-4699-9487-c09f829b4d3f,MSI,Stealth i01,8,Intel i5,692.13,False
+66c6d33a-2a78-4305-a548-30eecc811cb2,MSI,Raider V52,32,AMD Ryzen 9,2076.58,False
+bb830955-6953-460e-ac14-ab43d282d433,MSI,Raider V52,8,Intel i9,1251.76,True
+17b0bc38-ccd1-497e-80dc-d5a029331908,MSI,Raider V52,64,AMD Ryzen 9,3030.98,False
+77a6c1dd-f758-42ef-ac80-3efa5bd0e28b,MSI,Raider v42,32,AMD Ryzen 9,2134.91,True
+6d9f0a07-049b-48fc-a7af-996ff876340e,MSI,Raider v42,32,AMD Ryzen 9,1991.98,False
+09717880-dfc0-4a10-9c23-34a0f64638a7,MSI,Sword H90,64,AMD Ryzen 7,2540.95,True
+8fe7f128-66e8-40a2-9635-a93c9ca123d6,Asus,ZenBook s97,32,Intel i9,2006.68,True
+bfeaf40a-ba73-4491-b187-78b62de0a685,HP,Envy e76,64,AMD Ryzen 9,2659.44,True
+f175621b-a696-4059-9f68-b8c639909f5f,HP,Envy e76,8,AMD Ryzen 9,1507.39,True
+e9eea45d-a869-4492-8aac-434af4594827,Acer,Predator W52,64,AMD Ryzen 7,2604.31,True
+92fc8d1c-0f95-41d4-8351-f74bfa1c2a40,Acer,Predator W52,64,AMD Ryzen 7,2807.49,False
+acbd61aa-be6b-40d2-b674-1658d9926fe0,Apple,MacBook Pro,32,Intel i7,1569.63,False
+6b452eb2-dd66-4bd3-8528-d49492c83506,Samsung,Odyssey P75,8,AMD Ryzen 9,1385.66,True
+cd37cccc-8b4f-4958-a28b-c2c7f1e94b8f,Samsung,Odyssey P75,16,Intel i7,1302.17,True
+799798a7-afb9-483a-954f-42fc8a3dd955,Samsung,Odyssey P75,32,AMD Ryzen 5,1468.28,False
+0f7a514e-28b9-4868-b0c0-94f3c32455c6,MSI,Katana h96,8,AMD Ryzen 9,1532.81,True
+c0d2f890-58fc-4cef-8e02-26b48056f5ca,MSI,Katana h96,64,Intel i5,1911.5,False
+4374cf02-a4a1-4c3d-a1d5-af1708c69a4d,MSI,Katana h96,8,AMD Ryzen 5,811.5,True
+6bb417fc-7365-4853-9b8b-a44db08f0541,MSI,Stealth P68,64,Intel i9,2596.83,True
+147339fe-696f-4b94-aae0-318832de6ac9,MSI,Stealth P68,16,AMD Ryzen 7,1367.6,False
+3c658e90-633d-47b6-bc52-06e74e14f0c6,MSI,Stealth P68,16,Intel i9,1461.78,True
