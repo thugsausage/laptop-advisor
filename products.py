@@ -1,6 +1,6 @@
 import csv
 import random
-import os  # Добавили модуль для работы с файловой системой
+import os
 from faker import Faker
 
 fake = Faker()
@@ -52,7 +52,7 @@ def generate_laptops(num_products=20):
 
 
 def save_to_csv(data, filename="data/laptops.csv"):
-    # Создаем папку, если она не существует
+
     os.makedirs(os.path.dirname(filename), exist_ok=True)
 
     with open(filename, mode='w', newline='', encoding='utf-8') as file:
